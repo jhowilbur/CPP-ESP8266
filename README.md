@@ -1,6 +1,8 @@
 # CPP WEB-SERVER ESP8266
 
 ## C++ project using ESP8266 to create an IoT with socket/TCP  to get an HTTP protocol
+## Projeto C++ usando ESP8266 para criar uma IoT com soquete/TCP para obter um protocolo HTTP
+## Projet C++ utilisant ESP8266 pour créer un IoT avec socket/TCP pour obtenir un protocole HTTP
 ## 使用 ESP8266 创建 IoT 的 C++ 项目，使用套接字/TCP 获取 HTTP 协议
 
 ------------------
